@@ -13,6 +13,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -23,6 +24,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -54,4 +56,8 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
