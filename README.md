@@ -7,11 +7,13 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0525-contiguous-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0525-contiguous-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -40,5 +42,6 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
