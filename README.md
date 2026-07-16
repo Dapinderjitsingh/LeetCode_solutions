@@ -7,6 +7,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0525-contiguous-array) |
@@ -14,6 +15,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -27,6 +29,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -40,6 +43,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
