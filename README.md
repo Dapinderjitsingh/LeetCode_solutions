@@ -15,6 +15,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | ------- |
 | [0242-valid-anagram](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
@@ -56,8 +57,10 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
