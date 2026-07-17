@@ -72,6 +72,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Math
@@ -79,9 +80,15 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | ------- |
 | [0007-reverse-integer](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0067-add-binary) |
 | [0523-continuous-subarray-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0523-continuous-subarray-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
