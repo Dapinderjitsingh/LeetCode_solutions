@@ -12,6 +12,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0523-continuous-subarray-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
