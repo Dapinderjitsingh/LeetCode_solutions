@@ -77,6 +77,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0029-divide-two-integers) |
 | [0523-continuous-subarray-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0523-continuous-subarray-sum) |
 ## Bit Manipulation
