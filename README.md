@@ -64,6 +64,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0704-binary-search) |
 ## Sliding Window
@@ -83,6 +84,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0007-reverse-integer](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0523-continuous-subarray-sum) |
 ## Bit Manipulation
 |  |
