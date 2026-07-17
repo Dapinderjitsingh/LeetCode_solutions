@@ -6,6 +6,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0229-majority-element-ii) |
@@ -61,6 +62,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0704-binary-search) |
