@@ -16,6 +16,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0560-subarray-sum-equals-k](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0374-guess-number-higher-or-lower](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sliding Window
 |  |
 | ------- |
