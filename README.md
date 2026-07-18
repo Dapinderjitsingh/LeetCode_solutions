@@ -8,6 +8,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
@@ -67,6 +68,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0374-guess-number-higher-or-lower) |
