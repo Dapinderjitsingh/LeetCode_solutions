@@ -145,4 +145,12 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
