@@ -18,6 +18,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0229-majority-element-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -70,6 +71,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -89,6 +91,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | [0240-search-a-2d-matrix-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -134,4 +137,12 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
