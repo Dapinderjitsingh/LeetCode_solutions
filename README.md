@@ -152,8 +152,13 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
