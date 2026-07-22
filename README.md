@@ -65,11 +65,13 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,4 +89,12 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0389-find-the-difference) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
