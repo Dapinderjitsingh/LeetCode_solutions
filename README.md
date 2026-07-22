@@ -153,6 +153,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
@@ -160,6 +161,7 @@ A collection of my LeetCode solutions organized by topic for DSA and interview p
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
