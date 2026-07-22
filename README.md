@@ -56,3 +56,11 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 ---
 
 ⭐ If you find this repository useful, feel free to star it!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+<!---LeetCode Topics End-->
