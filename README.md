@@ -67,6 +67,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0024-swap-nodes-in-pairs](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0143-reorder-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -76,6 +77,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0143-reorder-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -99,12 +101,14 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
