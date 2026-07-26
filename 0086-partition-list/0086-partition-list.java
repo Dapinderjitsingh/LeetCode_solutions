@@ -16,6 +16,7 @@ class Solution {
         ListNode lesstail = lessdummy;
         ListNode curr = head;
         while(curr != null){
+            ListNode next = curr.next;
             if(curr.val < x){
                 lesstail.next = curr;
                 lesstail = curr;
@@ -24,9 +25,10 @@ class Solution {
                 greatertail.next = curr;
                 greatertail = curr;
             }
-            curr = curr.next;
+            curr.next = null;
+            curr = next;
         }
-        greatertail.next = null;
+        // greatertail.next = null;
         lesstail.next = greaterdummy.next;
         return lessdummy.next;
     }
