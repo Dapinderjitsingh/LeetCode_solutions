@@ -27,7 +27,7 @@ class Solution {
         }
         ListNode revhead = prev;
         ListNode firsthead = head;
-        int maxsum = 0;
+        int maxsum = Integer.MIN_VALUE;
         while(firsthead != null && revhead != null){
             int sum = firsthead.val + revhead.val;
             maxsum = Math.max(maxsum,sum);
