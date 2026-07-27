@@ -77,6 +77,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0328-odd-even-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0328-odd-even-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +90,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0234-palindrome-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +113,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | ------- |
 | [0143-reorder-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
