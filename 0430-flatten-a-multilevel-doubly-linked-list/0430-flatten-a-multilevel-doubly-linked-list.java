@@ -9,53 +9,27 @@ class Node {
 */
 
 class Solution {
-
     public Node flatten(Node head) {
-        if (head == null) return null;
-
-        dfs(head);
-        return head;
-    }
-
-    // Returns the tail of the flattened list
-    private Node dfs(Node head) {
-
+        if (head == null)
+            return head;
         Node curr = head;
-        Node tail = head;
-
+        Stack<Node> st = new Stack<>();
         while (curr != null) {
-
-            Node next = curr.next;
-
             if (curr.child != null) {
-
-                // Flatten child list
-                Node childHead = curr.child;
-                Node childTail = dfs(childHead);
-
-                // Connect current node with child
-                curr.next = childHead;
-                childHead.prev = curr;
-                curr.child = null;
-
-                // Connect child tail with saved next
-                childTail.next = next;
-                if (next != null) {
-                    next.prev = childTail;
+                if (curr.next != null) {
+                    st.push(curr.next);
                 }
-
-                // Update tail
-                tail = childTail;
-
-                // Continue from the tail of child
-                curr = childTail;
-            } else {
-                tail = curr;
+                curr.next = curr.child;
+                curr.child.prev = curr;
+                curr.child = null;
             }
-
+            if (curr.next == null && !st.isEmpty()) {
+                Node temp = st.pop();
+                curr.next = temp;
+                temp.prev = curr;
+            }
             curr = curr.next;
         }
-
-        return tail;
+        return head;
     }
 }
