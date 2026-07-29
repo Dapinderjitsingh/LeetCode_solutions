@@ -85,6 +85,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0086-partition-list) |
@@ -114,6 +115,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0445-add-two-numbers-ii) |
@@ -141,9 +143,18 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
