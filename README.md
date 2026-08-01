@@ -139,6 +139,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -163,4 +164,16 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
