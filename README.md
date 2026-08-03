@@ -70,6 +70,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
@@ -100,6 +101,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0389-find-the-difference](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0389-find-the-difference) |
 ## String
