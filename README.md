@@ -64,6 +64,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -184,4 +185,16 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0048-rotate-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
