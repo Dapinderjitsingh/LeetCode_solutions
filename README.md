@@ -106,6 +106,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0138-copy-list-with-random-pointer](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0389-find-the-difference](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -129,6 +130,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0143-reorder-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -160,6 +162,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0018-4sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0048-rotate-image) |
+| [0496-next-greater-element-i](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -173,6 +176,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
