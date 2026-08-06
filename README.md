@@ -97,6 +97,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0143-reorder-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -112,6 +113,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0020-valid-parentheses) |
 | [0389-find-the-difference](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0389-find-the-difference) |
+| [0844-backspace-string-compare](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1544-make-the-string-great) |
 ## Bit Manipulation
@@ -136,6 +138,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0496-next-greater-element-i](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -228,4 +231,5 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
