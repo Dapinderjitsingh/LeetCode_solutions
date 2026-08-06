@@ -113,6 +113,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0020-valid-parentheses](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0020-valid-parentheses) |
 | [0389-find-the-difference](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0389-find-the-difference) |
 | [1021-remove-outermost-parentheses](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1544-make-the-string-great](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1544-make-the-string-great) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -136,6 +137,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0503-next-greater-element-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1544-make-the-string-great](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
