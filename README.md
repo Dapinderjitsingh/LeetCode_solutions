@@ -112,6 +112,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0020-valid-parentheses) |
+| [0316-remove-duplicate-letters](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0389-find-the-difference) |
 | [0844-backspace-string-compare](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -135,6 +136,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0143-reorder-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0316-remove-duplicate-letters](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0503-next-greater-element-ii) |
@@ -190,6 +192,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
+| [0316-remove-duplicate-letters](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0503-next-greater-element-ii) |
 ## Tree
@@ -234,4 +237,8 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | ------- |
 | [0682-baseball-game](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
