@@ -112,6 +112,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0020-valid-parentheses) |
+| [0227-basic-calculator-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0394-decode-string) |
@@ -137,6 +138,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0143-reorder-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0394-decode-string) |
@@ -164,6 +166,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0002-add-two-numbers](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0445-add-two-numbers-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0445-add-two-numbers-ii) |
 ## Depth-First Search
 |  |
