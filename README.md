@@ -249,6 +249,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0155-min-stack) |
+| [0933-number-of-recent-calls](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0933-number-of-recent-calls) |
 ## Simulation
 |  |
 | ------- |
@@ -270,4 +271,12 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0075-sort-colors) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
