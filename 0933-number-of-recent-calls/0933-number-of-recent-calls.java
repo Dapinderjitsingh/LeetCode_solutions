@@ -8,7 +8,7 @@ class RecentCounter {
         while(!q.isEmpty() && q.peek() < t - 3000){
             q.poll();
         }
-        q.add(t);
+        q.offer(t);
         return q.size();
     }
     
