@@ -97,6 +97,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0086-partition-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -171,6 +172,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0002-add-two-numbers](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0445-add-two-numbers-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0445-add-two-numbers-ii) |
 ## Depth-First Search
@@ -191,6 +193,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0048-rotate-image](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0503-next-greater-element-ii) |
