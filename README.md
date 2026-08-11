@@ -140,6 +140,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0020-valid-parentheses](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0155-min-stack) |
@@ -178,6 +179,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
@@ -219,6 +221,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -227,6 +230,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0100-same-tree) |
 ## Matrix
 |  |
