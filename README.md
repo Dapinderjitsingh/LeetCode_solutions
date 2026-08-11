@@ -143,6 +143,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0094-binary-tree-inorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0227-basic-calculator-ii) |
@@ -183,6 +184,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0094-binary-tree-inorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -226,6 +228,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0094-binary-tree-inorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -236,6 +239,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0094-binary-tree-inorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Matrix
 |  |
 | ------- |
