@@ -293,6 +293,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0595-big-countries](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0595-big-countries) |
 ## Quicksort
 |  |
 | ------- |
