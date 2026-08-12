@@ -156,6 +156,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0682-baseball-game](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1544-make-the-string-great) |
@@ -226,6 +227,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0496-next-greater-element-i](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0901-online-stock-span) |
 ## Tree
 |  |
 | ------- |
@@ -288,6 +290,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0933-number-of-recent-calls) |
 ## Simulation
 |  |
@@ -321,6 +324,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0933-number-of-recent-calls) |
 ## Sliding Window
 |  |
