@@ -108,6 +108,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0383-ransom-note](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 ## String
@@ -117,6 +118,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0071-simplify-path](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
+| [0383-ransom-note](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
@@ -365,4 +367,8 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0572-subtree-of-another-tree) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
