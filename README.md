@@ -114,6 +114,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0227-basic-calculator-ii) |
