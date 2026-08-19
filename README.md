@@ -229,6 +229,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0682-baseball-game](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Binary Search
 |  |
@@ -341,6 +342,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Database
 |  |
