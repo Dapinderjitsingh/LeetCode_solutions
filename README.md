@@ -99,6 +99,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0160-intersection-of-two-linked-lists](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -138,6 +139,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0018-4sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0075-sort-colors) |
 | [0389-find-the-difference](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Stack
@@ -220,6 +222,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0239-sliding-window-maximum) |
+| [0455-assign-cookies](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -337,6 +340,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
+| [0455-assign-cookies](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Database
 |  |
@@ -349,6 +353,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
