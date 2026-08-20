@@ -145,6 +145,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0455-assign-cookies](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Stack
 |  |
@@ -239,6 +240,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0739-daily-temperatures](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
@@ -361,6 +363,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0455-assign-cookies](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Database
 |  |
