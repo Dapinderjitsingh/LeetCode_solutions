@@ -198,6 +198,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0110-balanced-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -239,6 +240,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -261,6 +263,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0110-balanced-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -295,6 +298,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0110-balanced-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -385,6 +389,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0543-diameter-of-binary-tree) |
 ## String Matching
 |  |
