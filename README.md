@@ -120,6 +120,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0020-valid-parentheses](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0227-basic-calculator-ii) |
+| [0257-binary-tree-paths](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0389-find-the-difference) |
@@ -202,6 +203,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0144-binary-tree-preorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0513-find-bottom-left-tree-value) |
@@ -267,6 +269,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0144-binary-tree-preorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -302,6 +305,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0144-binary-tree-preorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -407,4 +411,5 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
