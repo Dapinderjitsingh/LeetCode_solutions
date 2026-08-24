@@ -207,6 +207,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0144-binary-tree-preorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0437-path-sum-iii) |
@@ -281,6 +282,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0144-binary-tree-preorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0513-find-bottom-left-tree-value) |
@@ -317,6 +319,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0144-binary-tree-preorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0513-find-bottom-left-tree-value) |
@@ -428,4 +431,12 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | ------- |
 | [0113-path-sum-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0257-binary-tree-paths) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
