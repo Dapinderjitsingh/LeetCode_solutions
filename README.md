@@ -146,6 +146,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0435-non-overlapping-intervals](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1094-car-pooling](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1094-car-pooling) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -246,6 +247,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0735-asteroid-collision](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0860-lemonade-change) |
+| [1094-car-pooling](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1094-car-pooling) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -350,6 +352,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0239-sliding-window-maximum) |
+| [1094-car-pooling](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1094-car-pooling) |
 ## Merge Sort
 |  |
 | ------- |
@@ -372,6 +375,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0682-baseball-game](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
+| [1094-car-pooling](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1094-car-pooling) |
 ## Greedy
 |  |
 | ------- |
@@ -452,4 +456,8 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
