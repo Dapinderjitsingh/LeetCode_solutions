@@ -216,6 +216,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0144-binary-tree-preorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -300,6 +301,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0144-binary-tree-preorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -320,6 +322,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0112-path-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -344,6 +347,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0144-binary-tree-preorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
