@@ -310,6 +310,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0257-binary-tree-paths](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0572-subtree-of-another-tree) |
@@ -358,6 +359,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0257-binary-tree-paths](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0572-subtree-of-another-tree) |
@@ -514,6 +516,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
