@@ -314,6 +314,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0543-diameter-of-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -361,6 +362,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0543-diameter-of-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
 |  |
@@ -513,4 +515,5 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
