@@ -126,6 +126,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0020-valid-parentheses](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0071-simplify-path) |
+| [0214-shortest-palindrome](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -467,12 +468,14 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0572-subtree-of-another-tree) |
 | [1392-longest-happy-prefix](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0572-subtree-of-another-tree) |
 | [1392-longest-happy-prefix](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1392-longest-happy-prefix) |
 ## Counting
@@ -500,12 +503,14 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
@@ -515,6 +520,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1392-longest-happy-prefix) |
 ## Binary Search Tree
 |  |
@@ -523,4 +529,8 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0450-delete-node-in-a-bst](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
