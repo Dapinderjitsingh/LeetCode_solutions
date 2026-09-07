@@ -185,6 +185,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0739-daily-temperatures](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1544-make-the-string-great) |
@@ -265,6 +266,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0735-asteroid-collision](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0860-lemonade-change) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1094-car-pooling](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1094-car-pooling) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -290,6 +292,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0503-next-greater-element-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -326,6 +329,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0700-search-in-a-binary-search-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -378,6 +382,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0700-search-in-a-binary-search-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -542,6 +547,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0450-delete-node-in-a-bst](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Manacher
 |  |
 | ------- |
