@@ -16,31 +16,51 @@
 //     }
 // }
 
+// class Solution {
+//     public int[] topKFrequent(int[] nums, int k) {
+//         HashMap<Integer,Integer> map = new HashMap<>();
+//         for(int num : nums){
+//             map.put(num,map.getOrDefault(num,0)+1);
+//         }
+//         ArrayList<Integer>[] bucket= new ArrayList[nums.length + 1];
+//         for(int key : map.keySet()){
+//             int n = map.get(key);
+//             if(bucket[n]==null){
+//                 bucket[n]= new ArrayList<>();
+
+//             }
+//             bucket[n].add(key);
+//         }
+//         int[] ans = new int[k];
+//         int index=0;
+//         for(int i = bucket.length-1; i >= 1; i--){
+//             if(bucket[i]!=null){
+//                 for(int n : bucket[i]){
+//                     ans[index++]=n;
+//                     if(index==k) return ans;
+//                 }
+//             }
+//         }
+//         return ans;
+//     }
+// }
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
         HashMap<Integer,Integer> map = new HashMap<>();
         for(int num : nums){
-            map.put(num,map.getOrDefault(num,0)+1);
+            map.put(num,map.getOrDefault(num,0) + 1);
         }
-        ArrayList<Integer>[] bucket= new ArrayList[nums.length + 1];
-        for(int key : map.keySet()){
-            int n = map.get(key);
-            if(bucket[n]==null){
-                bucket[n]= new ArrayList<>();
-
-            }
-            bucket[n].add(key);
+        PriorityQueue<Integer> pq = new PriorityQueue<>((a, b) -> map.get(a) - map.get(b));
+        for(int num : map.keySet()){
+            pq.offer(num);
+            if(pq.size() > k) pq.poll();
         }
-        int[] ans = new int[k];
-        int index=0;
-        for(int i = bucket.length-1; i >= 1; i--){
-            if(bucket[i]!=null){
-                for(int n : bucket[i]){
-                    ans[index++]=n;
-                    if(index==k) return ans;
-                }
-            }
+        int[] arr = new int[k];
+        int i = 0;
+        while(!pq.isEmpty()){
+            arr[i] = pq.poll();
+            i++; 
         }
-        return ans;
+        return arr; 
     }
 }
