@@ -102,6 +102,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0160-intersection-of-two-linked-lists](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0844-backspace-string-compare](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
@@ -138,6 +139,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0316-remove-duplicate-letters](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0394-decode-string) |
 | [0459-repeated-substring-pattern](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0459-repeated-substring-pattern) |
 | [0844-backspace-string-compare](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
@@ -295,6 +297,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0392-is-subsequence](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
