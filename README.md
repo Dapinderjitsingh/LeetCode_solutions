@@ -258,6 +258,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | ------- |
 | [0015-3sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0018-4sum) |
+| [0040-combination-sum-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0075-sort-colors) |
@@ -531,6 +532,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Lifting
