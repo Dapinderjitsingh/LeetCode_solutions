@@ -601,4 +601,8 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0509-fibonacci-number) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
