@@ -123,6 +123,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0389-find-the-difference](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0767-reorganize-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0767-reorganize-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
@@ -142,6 +143,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0392-is-subsequence](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0394-decode-string) |
 | [0459-repeated-substring-pattern](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0459-repeated-substring-pattern) |
+| [0767-reorganize-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -162,6 +164,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0389-find-the-difference](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0455-assign-cookies) |
+| [0767-reorganize-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0767-reorganize-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1094-car-pooling) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1710-maximum-units-on-a-truck) |
@@ -431,6 +434,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0215-kth-largest-element-in-an-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0767-reorganize-string) |
 | [1094-car-pooling](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1094-car-pooling) |
 ## Merge Sort
 |  |
@@ -463,6 +467,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0316-remove-duplicate-letters](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0435-non-overlapping-intervals](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0455-assign-cookies) |
+| [0767-reorganize-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -530,6 +535,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0383-ransom-note) |
+| [0767-reorganize-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0767-reorganize-string) |
 ## Backtracking
 |  |
 | ------- |
