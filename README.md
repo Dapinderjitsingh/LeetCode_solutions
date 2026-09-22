@@ -260,6 +260,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0018-4sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0018-4sum) |
 | [0040-combination-sum-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -533,6 +534,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Lifting
