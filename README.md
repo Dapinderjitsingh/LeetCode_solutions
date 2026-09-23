@@ -102,6 +102,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0160-intersection-of-two-linked-lists](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -160,6 +161,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0018-4sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0435-non-overlapping-intervals) |
@@ -433,6 +435,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0023-merge-k-sorted-lists](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0767-reorganize-string) |
 | [1094-car-pooling](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1094-car-pooling) |
@@ -449,6 +452,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0901-online-stock-span](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0933-number-of-recent-calls) |
@@ -496,6 +500,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0933-number-of-recent-calls) |
 ## Sliding Window
