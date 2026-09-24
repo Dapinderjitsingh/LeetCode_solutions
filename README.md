@@ -156,6 +156,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0389-find-the-difference) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Sorting
 |  |
 | ------- |
@@ -214,6 +215,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0234-palindrome-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Math
 |  |
 | ------- |
@@ -224,6 +226,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0227-basic-calculator-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0445-add-two-numbers-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Depth-First Search
 |  |
 | ------- |
