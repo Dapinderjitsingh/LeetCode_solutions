@@ -213,6 +213,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0025-reverse-nodes-in-k-group](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0779-k-th-symbol-in-grammar) |
@@ -224,6 +225,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0227-basic-calculator-ii) |
+| [0326-power-of-three](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0326-power-of-three) |
 | [0445-add-two-numbers-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0779-k-th-symbol-in-grammar) |
