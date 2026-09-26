@@ -103,6 +103,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0189-rotate-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0295-find-median-from-data-stream) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -121,6 +122,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0160-intersection-of-two-linked-lists](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
@@ -168,6 +170,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0215-kth-largest-element-in-an-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0455-assign-cookies) |
@@ -288,6 +291,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0215-kth-largest-element-in-an-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
@@ -305,6 +309,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 ## Binary Search
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Dynamic Programming
 |  |
