@@ -127,6 +127,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0767-reorganize-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0767-reorganize-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
@@ -152,6 +153,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1392-longest-happy-prefix](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1392-longest-happy-prefix) |
 | [1544-make-the-string-great](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1544-make-the-string-great) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Bit Manipulation
 |  |
 | ------- |
