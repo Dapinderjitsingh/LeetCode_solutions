@@ -124,6 +124,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0347-top-k-frequent-elements](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -145,6 +146,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0394-decode-string) |
@@ -511,6 +513,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -555,6 +558,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0767-reorganize-string) |
 ## Backtracking
 |  |
