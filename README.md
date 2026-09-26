@@ -129,6 +129,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0496-next-greater-element-i](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0767-reorganize-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0767-reorganize-string) |
+| [0771-jewels-and-stones](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0771-jewels-and-stones) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
@@ -152,6 +153,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0394-decode-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0394-decode-string) |
 | [0459-repeated-substring-pattern](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0459-repeated-substring-pattern) |
 | [0767-reorganize-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0767-reorganize-string) |
+| [0771-jewels-and-stones](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
