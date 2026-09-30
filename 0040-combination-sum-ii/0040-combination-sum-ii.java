@@ -1,36 +1,32 @@
 class Solution {
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
-
-        List<List<Integer>> ans = new ArrayList<>();
+        List<List<Integer>> list = new ArrayList<>();
         Arrays.sort(candidates);
-
-        backtrack(0, target, candidates, new ArrayList<>(), ans);
-
-        return ans;
+        solve(candidates, target, new ArrayList<>(), list, 0);
+        return list;
     }
 
-    void backtrack(int start, int target, int[] candidates,
-                   List<Integer> path, List<List<Integer>> ans) {
-
+    private void solve(int[] candidates, int target, List<Integer> temp, List<List<Integer>> list, int start) {
         if (target == 0) {
-            ans.add(new ArrayList<>(path));
+            list.add(new ArrayList<>(temp));
             return;
-        }
-
+        }        
+        if (target < 0 || start == candidates.length)
+            return;
+        
         for (int i = start; i < candidates.length; i++) {
-
-            if (i > start && candidates[i] == candidates[i - 1])
-                continue;
 
             if (candidates[i] > target)
                 break;
+            if (i > start && candidates[i] == candidates[i - 1])
+                continue;
 
-            path.add(candidates[i]);
+            if (candidates[i] <= target) {
+                temp.add(candidates[i]);
+                solve(candidates, target - candidates[i], temp, list, i + 1);
+                temp.remove(temp.size() - 1);
+            }
 
-            backtrack(i + 1, target - candidates[i],
-                      candidates, path, ans);
-
-            path.remove(path.size() - 1);
         }
     }
 }
