@@ -313,6 +313,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [1710-maximum-units-on-a-truck](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -651,4 +652,8 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0208-implement-trie-prefix-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
