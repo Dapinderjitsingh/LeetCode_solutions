@@ -140,6 +140,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0020-valid-parentheses](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0071-simplify-path) |
+| [0131-palindrome-partitioning](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0227-basic-calculator-ii) |
@@ -328,6 +329,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0435-non-overlapping-intervals) |
@@ -576,6 +578,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0046-permutations](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Lifting
 |  |
