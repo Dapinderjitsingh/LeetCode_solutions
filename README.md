@@ -158,6 +158,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0844-backspace-string-compare](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1392-longest-happy-prefix](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1392-longest-happy-prefix) |
 | [1544-make-the-string-great](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1544-make-the-string-great) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -334,6 +335,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0392-is-subsequence](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1143-longest-common-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -661,4 +663,8 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
