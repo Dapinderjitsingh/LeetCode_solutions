@@ -6,7 +6,7 @@ class Solution {
         for(int i = 0; i < n; i++){
             Arrays.fill(dp[i], -1);
         }
-        return f(n - 1, m , text1, text2, dp);
+        return f(n - 1, m - 1, text1, text2, dp);
     }
     int f(int i, int j, String s1, String s2, int[][] dp){
         if(i < 0 ||j < 0)return 0;
