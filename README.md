@@ -295,6 +295,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | [0046-permutations](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -336,6 +337,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -507,6 +509,7 @@ https://leetcode.com/u/dapinderjitsingh_dhaliwal/
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/Dapinderjitsingh/LeetCode_solutions/tree/master/0316-remove-duplicate-letters) |
